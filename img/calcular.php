@@ -29,6 +29,6 @@ switch($edad)
         echo "El doble de tu edad";
         break;
     default:
-        echo "none"
+        echo "none";
 }
 ?>
